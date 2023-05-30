@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942083271320",
+    "project_id": "kullanici-kayit-5e8c1",
+    "storage_bucket": "kullanici-kayit-5e8c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942083271320:android:051980c799d9d680583eed",
+        "android_client_info": {
+          "package_name": "com.example.dnemsonuprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942083271320-ip004memp6vd2eq50flp8eou57lpk24t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOg6Ybnc8VuH1AnkUzpwTWtJhdOL-ABYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942083271320-ip004memp6vd2eq50flp8eou57lpk24t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

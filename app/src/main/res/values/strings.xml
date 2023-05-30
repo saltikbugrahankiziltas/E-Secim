@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dönem Sonu Projesi</string>
+
+    <string-array name="cumhur_adaylari_full_name">
+        <item>Recep Tayyip Erdoğan</item>
+        <item>Muharrem İnce</item>
+        <item>Kemal Kılıçdaroğlu</item>
+        <item>Sinan Oğan</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
